@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sapolor/sd-260-final-update/static/css/main.d30a4ac9.chunk.css",
+    "main.js": "/sapolor/sd-260-final-update/static/js/main.7e244aa5.chunk.js",
+    "main.js.map": "/sapolor/sd-260-final-update/static/js/main.7e244aa5.chunk.js.map",
+    "runtime-main.js": "/sapolor/sd-260-final-update/static/js/runtime-main.2545e000.js",
+    "runtime-main.js.map": "/sapolor/sd-260-final-update/static/js/runtime-main.2545e000.js.map",
+    "static/js/2.2dc0b4ea.chunk.js": "/sapolor/sd-260-final-update/static/js/2.2dc0b4ea.chunk.js",
+    "static/js/2.2dc0b4ea.chunk.js.map": "/sapolor/sd-260-final-update/static/js/2.2dc0b4ea.chunk.js.map",
+    "index.html": "/sapolor/sd-260-final-update/index.html",
+    "precache-manifest.596b5cf994f218c2659fae47d918b906.js": "/sapolor/sd-260-final-update/precache-manifest.596b5cf994f218c2659fae47d918b906.js",
+    "service-worker.js": "/sapolor/sd-260-final-update/service-worker.js",
+    "static/css/main.d30a4ac9.chunk.css.map": "/sapolor/sd-260-final-update/static/css/main.d30a4ac9.chunk.css.map",
+    "static/js/2.2dc0b4ea.chunk.js.LICENSE.txt": "/sapolor/sd-260-final-update/static/js/2.2dc0b4ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2545e000.js",
+    "static/js/2.2dc0b4ea.chunk.js",
+    "static/css/main.d30a4ac9.chunk.css",
+    "static/js/main.7e244aa5.chunk.js"
+  ]
+}
